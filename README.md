@@ -33,9 +33,6 @@ Trabajo con una fuerte atención al detalle, manteniendo la calidad, y siempre b
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,cs,java" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venuz25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Venuz25's Top Languages"/>
-</p>
 
 ---
 
