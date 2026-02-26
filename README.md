@@ -31,7 +31,7 @@ Trabajo con una fuerte atención al detalle, manteniendo la calidad, y siempre b
 ### Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,cs,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,cpp,cs,java,python,jupyter" />
 </p>
 
 ---
